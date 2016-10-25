@@ -10,6 +10,6 @@ __3)__ *Refactor the code you wrote* - if there's any way you can simplify the c
 
 ##Note
 
-Let's remember that writting code is not about how complex one can make but more about how readable it is. Ask yourself, if someone just came in to the team and had a look at my code could they easily and quickly understand it?
+Let's remember that writing code is not about how complex one can make but more about how readable it is. Ask yourself, if someone just came in to the team and had a look at my code could they easily and quickly understand it?
 
 _We can add as much and as little as we want to this README_
